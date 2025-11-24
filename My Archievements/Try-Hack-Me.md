@@ -6,3 +6,6 @@ https://tryhackme.com/room/puttingitalltogether?sharerId=65c1509dccfd0adff01c868
 
 # SOC Role in Blue Team
 https://tryhackme.com/room/socroleinblueteam?sharerId=65c1509dccfd0adff01c8686
+
+# Introductory Networking
+https://tryhackme.com/room/introtonetworking?sharerId=65c1509dccfd0adff01c8686
