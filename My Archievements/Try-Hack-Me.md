@@ -9,3 +9,11 @@ https://tryhackme.com/room/socroleinblueteam?sharerId=65c1509dccfd0adff01c8686
 
 # Introductory Networking
 https://tryhackme.com/room/introtonetworking?sharerId=65c1509dccfd0adff01c8686
+
+# SOC Fundamentals
+https://tryhackme.com/room/socfundamentals?sharerId=65c1509dccfd0adff01c8686
+
+ # Search Skills
+https://tryhackme.com/room/searchskills?sharerId=65c1509dccfd0adff01c8686
+
+# Windows Fundamentals 2
