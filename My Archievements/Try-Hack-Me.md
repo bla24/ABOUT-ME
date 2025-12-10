@@ -23,3 +23,6 @@ https://tryhackme.com/room/socl1alerttriage?sharerId=65c1509dccfd0adff01c8686
 
 # SOC L1 Alert Reporting
 https://tryhackme.com/room/socl1alertreporting?sharerId=65c1509dccfd0adff01c8686
+
+# The Phishing Pond (CTF)
+https://tryhackme.com/room/phishingpond?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&sharerId=65c1509dccfd0adff01c8686
